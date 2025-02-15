@@ -1,0 +1,6 @@
+First Name = Umair 
+Rollno = 2
+favourite subject = English
+Address = 17 Arcadia Road, London
+student id = 4356
+Phone number =03456789

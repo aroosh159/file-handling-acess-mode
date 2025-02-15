@@ -1,0 +1,6 @@
+First Name = Fatima 
+Rollno = 1
+favourite subject = English
+Address = 42-2630 Hegal Place, Alexandria, Virginia
+student id = 4356
+Phone number =03456789
